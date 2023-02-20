@@ -7,8 +7,8 @@ The dataset used is from kaggle, can be viewed [here](https://www.kaggle.com/dat
 
 
 #### Research Question: 
-What is the correlation between **Engine Size(L), Cylinders, Fuel Consumption Comb (L/100 km), 
-                 Fuel Consumption Comb (mpg), and Vehicle Class** and **CO2 Emissions**?
+What is the correlation between **Engine Size, Cylinders, Fuel Consumption Comb, 
+                 Fuel Consumption Comb, and Vehicle Class** and **CO2 Emissions**?
                  
                  
 #### Goal:
