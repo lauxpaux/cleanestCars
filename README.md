@@ -15,3 +15,17 @@ What is the correlation between **Engine Size, Cylinders, Fuel Consumption Comb,
 Create a simple linear regression model that captures the correlation and can predict CO2 emission
 
 
+### Run:
+1. Create virtual environment
+2. Git clone
+3. Pip install dependencies including jupyter lab
+4. Open jupyter notebook
+
+'''
+#if using pyenv
+pyenv activate <virtual env>
+git clone <link>
+pip install jupyter lab
+jupyter notebook
+'''
+
