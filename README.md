@@ -21,11 +21,11 @@ Create a simple linear regression model that captures the correlation and can pr
 3. Pip install dependencies including jupyter lab
 4. Open jupyter notebook
 
-'''
+```
 #if using pyenv
 pyenv activate <virtual env>
 git clone <link>
 pip install jupyter lab
 jupyter notebook
-'''
+```
 
