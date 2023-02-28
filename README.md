@@ -4,6 +4,12 @@
 <img width="441" alt="image" src="https://user-images.githubusercontent.com/40530704/221240147-ca2c8c95-b242-487e-8d6d-b41092a65b30.png">
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/40530704/221240940-85cf0cff-5cea-4728-81d2-009a0f3915cf.png">
 
+something between
+
+![image](https://user-images.githubusercontent.com/40530704/221979317-0aa9c7b0-d9de-4d75-b107-08380ad3928a.png)
+![image](https://user-images.githubusercontent.com/40530704/221979360-c36f4a07-9bec-4145-b43a-ae6f529fbc1f.png)
+![image](https://user-images.githubusercontent.com/40530704/221979399-2785da53-9422-4b38-94ca-f8c9afb8a8e5.png)
+
 
 
 This is a simple regression project that explores the correlations between different attributes of a vehicle and their CO2 Emissions. The transportation industry is experiencing a trend of changes after generally remaining the same for decades. One of the biggest, if not the biggest dicussion in transportation is the environmental effects/cost of different vehicles types and user attitudes. There has been an influx of electric vehicles in the market, with states like California and New Jersey setting goals and incentives for user compliance to electric or hybrid vehicles. However, the transition from gas powered to electric powered vehicles across the nation will take decades. Capturing the transitional "snap-shot" led to the research question.
