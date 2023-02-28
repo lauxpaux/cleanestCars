@@ -1,6 +1,5 @@
 # Cleanest Cars
 ![image](https://user-images.githubusercontent.com/40530704/221979317-0aa9c7b0-d9de-4d75-b107-08380ad3928a.png)
-![image](https://user-images.githubusercontent.com/40530704/221979360-c36f4a07-9bec-4145-b43a-ae6f529fbc1f.png)
 ![image](https://user-images.githubusercontent.com/40530704/221979399-2785da53-9422-4b38-94ca-f8c9afb8a8e5.png)
 
 
